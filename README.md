@@ -61,4 +61,6 @@
 
 ## 许可
 
-本仓库未声明开源许可证。转载或分发时请保留 [Xzonn 的原文出处链接](https://xzonn.top/posts/Remove-Intelligent-Image-Viewer.html)。
+本项目使用 [MIT License](LICENSE)。
+
+“智能看图”脚本的原始思路和出处：[Xzonn 的文章](https://xzonn.top/posts/Remove-Intelligent-Image-Viewer.html)。
